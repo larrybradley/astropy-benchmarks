@@ -1,0 +1,2625 @@
+[
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.3894774254310473e-05,
+        "last_rev": 30377,
+        "last_value": 0.0011162820104166648,
+        "name": "coordinates.FrameBenchmarks.time_init_array",
+        "pretty_name": "coordinates.FrameBenchmarks.time_init_array",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 2.7224069715100887e-06,
+        "last_rev": 30377,
+        "last_value": 0.0003909991956752237,
+        "name": "coordinates.FrameBenchmarks.time_init_nodata",
+        "pretty_name": "coordinates.FrameBenchmarks.time_init_nodata",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.164774339173756e-05,
+        "last_rev": 30377,
+        "last_value": 0.0009235058330419566,
+        "name": "coordinates.FrameBenchmarks.time_init_scalar",
+        "pretty_name": "coordinates.FrameBenchmarks.time_init_scalar",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.002167986644230816,
+        "last_rev": 30377,
+        "last_value": 0.8931089959999996,
+        "name": "coordinates.SkyCoordBenchmarks.time_icrs_to_galactic_array",
+        "pretty_name": "coordinates.SkyCoordBenchmarks.time_icrs_to_galactic_array",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.00016164710336537857,
+        "last_rev": 30377,
+        "last_value": 0.02793156331250002,
+        "name": "coordinates.SkyCoordBenchmarks.time_icrs_to_galactic_scalar",
+        "pretty_name": "coordinates.SkyCoordBenchmarks.time_icrs_to_galactic_scalar",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0009220960360576872,
+        "last_rev": 30377,
+        "last_value": 0.04726368624999999,
+        "name": "coordinates.SkyCoordBenchmarks.time_init_array",
+        "pretty_name": "coordinates.SkyCoordBenchmarks.time_init_array",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 3.148510128621369e-05,
+        "last_rev": 30377,
+        "last_value": 0.0028245678552631616,
+        "name": "coordinates.SkyCoordBenchmarks.time_init_scalar",
+        "pretty_name": "coordinates.SkyCoordBenchmarks.time_init_scalar",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0017779593413461564,
+        "last_rev": 30377,
+        "last_value": 0.16583190424999994,
+        "name": "coordinates.SkyCoordBenchmarks.time_iter_array",
+        "pretty_name": "coordinates.SkyCoordBenchmarks.time_iter_array",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0004612982019230701,
+        "last_rev": 30377,
+        "last_value": 0.062345105750000074,
+        "name": "coordinates.SkyCoordBenchmarks.time_repr_array",
+        "pretty_name": "coordinates.SkyCoordBenchmarks.time_repr_array",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.0585294489699998e-05,
+        "last_rev": 30377,
+        "last_value": 0.0008901746385313633,
+        "name": "coordinates.SkyCoordBenchmarks.time_repr_scalar",
+        "pretty_name": "coordinates.SkyCoordBenchmarks.time_repr_scalar",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 6.925507572649656e-06,
+        "last_rev": 30377,
+        "last_value": 0.0004076577405954198,
+        "name": "coordinates.time_angle_array_repr",
+        "pretty_name": "coordinates.time_angle_array_repr",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 3.2822338620819995e-05,
+        "last_rev": 30377,
+        "last_value": 0.0018919644971021323,
+        "name": "coordinates.time_angle_array_repr_latex",
+        "pretty_name": "coordinates.time_angle_array_repr_latex",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 3.609578604868616e-05,
+        "last_rev": 30377,
+        "last_value": 0.0018799303674099457,
+        "name": "coordinates.time_angle_array_str",
+        "pretty_name": "coordinates.time_angle_array_str",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.3267800609052294e-06,
+        "last_rev": 30377,
+        "last_value": 0.00012443387756825382,
+        "name": "coordinates.time_latitude",
+        "pretty_name": "coordinates.time_latitude",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 0,
+        "last_err": 0.0005075207580128188,
+        "last_rev": 30377,
+        "last_value": 0.045855805666666694,
+        "name": "cosmology.LambdaCDMBenchmarks.time_age",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_age(LambdaCDM(H0=65 km / (Mpc s), Om0=0.6, Ode0=0.7, Tcmb0=0 K, Neff=3.04, m_nu=None, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 1,
+        "last_err": 0.0013156350504807683,
+        "last_rev": 30377,
+        "last_value": 0.08222010862500007,
+        "name": "cosmology.LambdaCDMBenchmarks.time_age",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_age(LambdaCDM(H0=65 km / (Mpc s), Om0=0.25, Ode0=0.65, Tcmb0=2.7 K, Neff=3.04, m_nu=[ 0.  0.  0.] eV, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 2,
+        "last_err": 0.0014116161370192454,
+        "last_rev": 30377,
+        "last_value": 0.08247513949999985,
+        "name": "cosmology.LambdaCDMBenchmarks.time_age",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_age(LambdaCDM(H0=65 km / (Mpc s), Om0=0.6, Ode0=0.7, Tcmb0=2.7 K, Neff=4, m_nu=[ 0.  0.  0.  0.] eV, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 3,
+        "last_err": 0.001530349665865376,
+        "last_rev": 30377,
+        "last_value": 0.08254939575000009,
+        "name": "cosmology.LambdaCDMBenchmarks.time_age",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_age(LambdaCDM(H0=65 km / (Mpc s), Om0=0.4, Ode0=0.2, Tcmb0=2.7 K, Neff=3.04, m_nu=[ 0.  0.  0.] eV, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 4,
+        "last_err": 5.515503541711362e-06,
+        "last_rev": 30377,
+        "last_value": 0.0004240825402791598,
+        "name": "cosmology.LambdaCDMBenchmarks.time_age",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_age(FlatLambdaCDM(H0=65 km / (Mpc s), Om0=0.25, Tcmb0=0 K, Neff=3.04, m_nu=None, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 5,
+        "last_err": 0.0013112508173076856,
+        "last_rev": 30377,
+        "last_value": 0.08240636349999997,
+        "name": "cosmology.LambdaCDMBenchmarks.time_age",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_age(FlatLambdaCDM(H0=65 km / (Mpc s), Om0=0.25, Tcmb0=2.7 K, Neff=3.04, m_nu=[ 0.  0.  0.] eV, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 6,
+        "last_err": 0.0018802174615384626,
+        "last_rev": 30377,
+        "last_value": 0.1527357924999999,
+        "name": "cosmology.LambdaCDMBenchmarks.time_age",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_age(FlatLambdaCDM(H0=65 km / (Mpc s), Om0=0.25, Tcmb0=2.7 K, Neff=3.04, m_nu=[ 0.05  0.1   0.15] eV, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 0,
+        "last_err": 2.8541059805570737e-05,
+        "last_rev": 30377,
+        "last_value": 0.004488187760416665,
+        "name": "cosmology.LambdaCDMBenchmarks.time_lumdist",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_lumdist(LambdaCDM(H0=65 km / (Mpc s), Om0=0.6, Ode0=0.7, Tcmb0=0 K, Neff=3.04, m_nu=None, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 1,
+        "last_err": 2.4603966166337468e-05,
+        "last_rev": 30377,
+        "last_value": 0.0037217412410714295,
+        "name": "cosmology.LambdaCDMBenchmarks.time_lumdist",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_lumdist(LambdaCDM(H0=65 km / (Mpc s), Om0=0.25, Ode0=0.65, Tcmb0=2.7 K, Neff=3.04, m_nu=[ 0.  0.  0.] eV, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 2,
+        "last_err": 3.103265265214804e-05,
+        "last_rev": 30377,
+        "last_value": 0.0045177143541666655,
+        "name": "cosmology.LambdaCDMBenchmarks.time_lumdist",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_lumdist(LambdaCDM(H0=65 km / (Mpc s), Om0=0.6, Ode0=0.7, Tcmb0=2.7 K, Neff=4, m_nu=[ 0.  0.  0.  0.] eV, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 3,
+        "last_err": 2.5658231640499917e-05,
+        "last_rev": 30377,
+        "last_value": 0.003645251275862073,
+        "name": "cosmology.LambdaCDMBenchmarks.time_lumdist",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_lumdist(LambdaCDM(H0=65 km / (Mpc s), Om0=0.4, Ode0=0.2, Tcmb0=2.7 K, Neff=3.04, m_nu=[ 0.  0.  0.] eV, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 4,
+        "last_err": 1.0434399733291005e-05,
+        "last_rev": 30377,
+        "last_value": 0.0005240102537214254,
+        "name": "cosmology.LambdaCDMBenchmarks.time_lumdist",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_lumdist(FlatLambdaCDM(H0=65 km / (Mpc s), Om0=0.25, Tcmb0=0 K, Neff=3.04, m_nu=None, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 5,
+        "last_err": 2.7099522579991195e-05,
+        "last_rev": 30377,
+        "last_value": 0.003969377723646723,
+        "name": "cosmology.LambdaCDMBenchmarks.time_lumdist",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_lumdist(FlatLambdaCDM(H0=65 km / (Mpc s), Om0=0.25, Tcmb0=2.7 K, Neff=3.04, m_nu=[ 0.  0.  0.] eV, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 6,
+        "last_err": 3.433168480558051e-05,
+        "last_rev": 30377,
+        "last_value": 0.007781664403846157,
+        "name": "cosmology.LambdaCDMBenchmarks.time_lumdist",
+        "pretty_name": "cosmology.LambdaCDMBenchmarks.time_lumdist(FlatLambdaCDM(H0=65 km / (Mpc s), Om0=0.25, Tcmb0=2.7 K, Neff=3.04, m_nu=[ 0.05  0.1   0.15] eV, Ob0=None))",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.10910671638848e-08,
+        "last_rev": 30377,
+        "last_value": 9.199509590909104e-07,
+        "name": "io_ascii.core.CoreSuite.time_base_splitter",
+        "pretty_name": "io_ascii.core.CoreSuite.time_base_splitter",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.4139407669236887e-05,
+        "last_rev": 30377,
+        "last_value": 0.002302342122216727,
+        "name": "io_ascii.core.CoreSuite.time_continuation_inputter",
+        "pretty_name": "io_ascii.core.CoreSuite.time_continuation_inputter",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.4782810542097149e-07,
+        "last_rev": 30377,
+        "last_value": 1.2530655859027188e-05,
+        "name": "io_ascii.core.CoreSuite.time_convert_vals",
+        "pretty_name": "io_ascii.core.CoreSuite.time_convert_vals",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 2.2106889278698088e-08,
+        "last_rev": 30377,
+        "last_value": 1.4069903787101853e-06,
+        "name": "io_ascii.core.CoreSuite.time_default_splitter_call",
+        "pretty_name": "io_ascii.core.CoreSuite.time_default_splitter_call",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 6.668854533602258e-06,
+        "last_rev": 30377,
+        "last_value": 0.0009169459870821224,
+        "name": "io_ascii.core.CoreSuite.time_default_splitter_join",
+        "pretty_name": "io_ascii.core.CoreSuite.time_default_splitter_join",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.2262471086252657e-05,
+        "last_rev": 30377,
+        "last_value": 0.002963962222222221,
+        "name": "io_ascii.core.CoreSuite.time_whitespace_splitter",
+        "pretty_name": "io_ascii.core.CoreSuite.time_whitespace_splitter",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 7.667321623572981e-07,
+        "last_rev": 30377,
+        "last_value": 9.611297590909093e-05,
+        "name": "io_ascii.fixedwidth.FixedWidthSuite.time_header",
+        "pretty_name": "io_ascii.fixedwidth.FixedWidthSuite.time_header",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 3.4291416172182406e-06,
+        "last_rev": 30377,
+        "last_value": 0.00041346137122641447,
+        "name": "io_ascii.fixedwidth.FixedWidthSuite.time_splitter",
+        "pretty_name": "io_ascii.fixedwidth.FixedWidthSuite.time_splitter",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.009113780183333338,
+        "last_rev": 30377,
+        "last_value": 1.4126285035,
+        "name": "io_ascii.ipac.IPACSuite.time_data_str_vals",
+        "pretty_name": "io_ascii.ipac.IPACSuite.time_data_str_vals",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 3.668762804580862e-05,
+        "last_rev": 30377,
+        "last_value": 0.005706373527777771,
+        "name": "io_ascii.ipac.IPACSuite.time_get_cols",
+        "pretty_name": "io_ascii.ipac.IPACSuite.time_get_cols",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 1.5146109522736656e-05,
+        "last_rev": 30377,
+        "last_value": 0.0014966096506849364,
+        "name": "io_ascii.ipac.IPACSuite.time_header_str_vals",
+        "pretty_name": "io_ascii.ipac.IPACSuite.time_header_str_vals",
+        "prev_value": 0.0010786508514851493
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.390222215104428e-05,
+        "last_rev": 30377,
+        "last_value": 0.0012832305959302325,
+        "name": "io_ascii.ipac.IPACSuite.time_splitter",
+        "pretty_name": "io_ascii.ipac.IPACSuite.time_splitter",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.00372708403846155,
+        "last_rev": 30377,
+        "last_value": 0.8893826150000002,
+        "name": "io_ascii.main.AastexFloat.time_read",
+        "pretty_name": "io_ascii.main.AastexFloat.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.012748832932692309,
+        "last_rev": 30377,
+        "last_value": 1.5054773174999998,
+        "name": "io_ascii.main.AastexFloat.time_write",
+        "pretty_name": "io_ascii.main.AastexFloat.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.00340531115384615,
+        "last_rev": 30377,
+        "last_value": 0.7061998699999998,
+        "name": "io_ascii.main.AastexInt.time_read",
+        "pretty_name": "io_ascii.main.AastexInt.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.013908077971153843,
+        "last_rev": 30377,
+        "last_value": 1.7093506845,
+        "name": "io_ascii.main.AastexInt.time_write",
+        "pretty_name": "io_ascii.main.AastexInt.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.004286229403846136,
+        "last_rev": 30377,
+        "last_value": 0.8074430135000004,
+        "name": "io_ascii.main.AastexString.time_read",
+        "pretty_name": "io_ascii.main.AastexString.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.013220230923076944,
+        "last_rev": 30377,
+        "last_value": 1.5287881644999999,
+        "name": "io_ascii.main.AastexString.time_write",
+        "pretty_name": "io_ascii.main.AastexString.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.00041161849999998406,
+        "last_rev": 30377,
+        "last_value": 0.12327479375000006,
+        "name": "io_ascii.main.BasicFloat.time_read",
+        "pretty_name": "io_ascii.main.BasicFloat.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0025162869903846354,
+        "last_rev": 30377,
+        "last_value": 0.41091161374999996,
+        "name": "io_ascii.main.BasicFloat.time_write",
+        "pretty_name": "io_ascii.main.BasicFloat.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 6.230287037032898e-05,
+        "last_rev": 30377,
+        "last_value": 0.04938821999999998,
+        "name": "io_ascii.main.BasicInt.time_read",
+        "pretty_name": "io_ascii.main.BasicInt.time_read",
+        "prev_value": 0.05001797250000006
+    },
+    {
+        "change_rev": [
+            30141,
+            30186
+        ],
+        "idx": null,
+        "last_err": 0.0008404056612903605,
+        "last_rev": 30377,
+        "last_value": 0.17898253949999976,
+        "name": "io_ascii.main.BasicInt.time_write",
+        "pretty_name": "io_ascii.main.BasicInt.time_write",
+        "prev_value": 0.1771355830000001
+    },
+    {
+        "change_rev": [
+            30077,
+            30080
+        ],
+        "idx": null,
+        "last_err": 0.0010043601818181687,
+        "last_rev": 30377,
+        "last_value": 0.11598940074999997,
+        "name": "io_ascii.main.BasicString.time_read",
+        "pretty_name": "io_ascii.main.BasicString.time_read",
+        "prev_value": 0.11749483375000003
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.0016300925185184635,
+        "last_rev": 30377,
+        "last_value": 0.24750052500000042,
+        "name": "io_ascii.main.BasicString.time_write",
+        "pretty_name": "io_ascii.main.BasicString.time_write",
+        "prev_value": 0.2451147775
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.0005888392222222339,
+        "last_rev": 30377,
+        "last_value": 0.13394473100000015,
+        "name": "io_ascii.main.CommentedHeaderFloat.time_read",
+        "pretty_name": "io_ascii.main.CommentedHeaderFloat.time_read",
+        "prev_value": 0.1344703629999997
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0029739754374999918,
+        "last_rev": 30377,
+        "last_value": 0.4110371850000001,
+        "name": "io_ascii.main.CommentedHeaderFloat.time_write",
+        "pretty_name": "io_ascii.main.CommentedHeaderFloat.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.00013528463888890364,
+        "last_rev": 30377,
+        "last_value": 0.054868319,
+        "name": "io_ascii.main.CommentedHeaderInt.time_read",
+        "pretty_name": "io_ascii.main.CommentedHeaderInt.time_read",
+        "prev_value": 0.055216909875
+    },
+    {
+        "change_rev": [
+            null,
+            30191
+        ],
+        "idx": null,
+        "last_err": 0.0009264794642857169,
+        "last_rev": 30377,
+        "last_value": 0.1791308385000001,
+        "name": "io_ascii.main.CommentedHeaderInt.time_write",
+        "pretty_name": "io_ascii.main.CommentedHeaderInt.time_write",
+        "prev_value": 0.177363693
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.00100123892788462,
+        "last_rev": 30377,
+        "last_value": 0.12292600975000001,
+        "name": "io_ascii.main.CommentedHeaderString.time_read",
+        "pretty_name": "io_ascii.main.CommentedHeaderString.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.0008912213703703801,
+        "last_rev": 30377,
+        "last_value": 0.24755037800000013,
+        "name": "io_ascii.main.CommentedHeaderString.time_write",
+        "pretty_name": "io_ascii.main.CommentedHeaderString.time_write",
+        "prev_value": 0.2452340865
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0003788397451922823,
+        "last_rev": 30377,
+        "last_value": 0.1233488502500002,
+        "name": "io_ascii.main.CsvFloat.time_read",
+        "pretty_name": "io_ascii.main.CsvFloat.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.001664344740384614,
+        "last_rev": 30377,
+        "last_value": 0.38152519374999994,
+        "name": "io_ascii.main.CsvFloat.time_write",
+        "pretty_name": "io_ascii.main.CsvFloat.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.0001475456851851781,
+        "last_rev": 30377,
+        "last_value": 0.049410131000000135,
+        "name": "io_ascii.main.CsvInt.time_read",
+        "pretty_name": "io_ascii.main.CsvInt.time_read",
+        "prev_value": 0.050059277500000166
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.0003852705370371075,
+        "last_rev": 30377,
+        "last_value": 0.15239306300000033,
+        "name": "io_ascii.main.CsvInt.time_write",
+        "pretty_name": "io_ascii.main.CsvInt.time_write",
+        "prev_value": 0.15052174499999982
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0012277750624999874,
+        "last_rev": 30377,
+        "last_value": 0.11735136024999993,
+        "name": "io_ascii.main.CsvString.time_read",
+        "pretty_name": "io_ascii.main.CsvString.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            null,
+            30191
+        ],
+        "idx": null,
+        "last_err": 0.0012252760892857509,
+        "last_rev": 30377,
+        "last_value": 0.2228787767499999,
+        "name": "io_ascii.main.CsvString.time_write",
+        "pretty_name": "io_ascii.main.CsvString.time_write",
+        "prev_value": 0.22066945574999997
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0029226712692307453,
+        "last_rev": 30377,
+        "last_value": 0.6820689079999998,
+        "name": "io_ascii.main.FixedWidthFloat.time_read",
+        "pretty_name": "io_ascii.main.FixedWidthFloat.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.015398516615384602,
+        "last_rev": 30377,
+        "last_value": 1.6234741139999995,
+        "name": "io_ascii.main.FixedWidthFloat.time_write",
+        "pretty_name": "io_ascii.main.FixedWidthFloat.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.003633656807692334,
+        "last_rev": 30377,
+        "last_value": 0.5900668895000001,
+        "name": "io_ascii.main.FixedWidthInt.time_read",
+        "pretty_name": "io_ascii.main.FixedWidthInt.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.016210935067307673,
+        "last_rev": 30377,
+        "last_value": 1.8087698879999998,
+        "name": "io_ascii.main.FixedWidthInt.time_write",
+        "pretty_name": "io_ascii.main.FixedWidthInt.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.003262906721153822,
+        "last_rev": 30377,
+        "last_value": 0.6924043494999998,
+        "name": "io_ascii.main.FixedWidthNoHeaderFloat.time_read",
+        "pretty_name": "io_ascii.main.FixedWidthNoHeaderFloat.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.012297356221153851,
+        "last_rev": 30377,
+        "last_value": 1.6180019490000002,
+        "name": "io_ascii.main.FixedWidthNoHeaderFloat.time_write",
+        "pretty_name": "io_ascii.main.FixedWidthNoHeaderFloat.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0024357383846154157,
+        "last_rev": 30377,
+        "last_value": 0.6005710165,
+        "name": "io_ascii.main.FixedWidthNoHeaderInt.time_read",
+        "pretty_name": "io_ascii.main.FixedWidthNoHeaderInt.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.015425872528846205,
+        "last_rev": 30377,
+        "last_value": 1.8067504145000002,
+        "name": "io_ascii.main.FixedWidthNoHeaderInt.time_write",
+        "pretty_name": "io_ascii.main.FixedWidthNoHeaderInt.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0031713537019230163,
+        "last_rev": 30377,
+        "last_value": 0.7005198354999997,
+        "name": "io_ascii.main.FixedWidthNoHeaderString.time_read",
+        "pretty_name": "io_ascii.main.FixedWidthNoHeaderString.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.013015734673076885,
+        "last_rev": 30377,
+        "last_value": 1.6306692859999998,
+        "name": "io_ascii.main.FixedWidthNoHeaderString.time_write",
+        "pretty_name": "io_ascii.main.FixedWidthNoHeaderString.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0031279276153846325,
+        "last_rev": 30377,
+        "last_value": 0.6910872164999997,
+        "name": "io_ascii.main.FixedWidthString.time_read",
+        "pretty_name": "io_ascii.main.FixedWidthString.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.012321206509615391,
+        "last_rev": 30377,
+        "last_value": 1.636443054,
+        "name": "io_ascii.main.FixedWidthString.time_write",
+        "pretty_name": "io_ascii.main.FixedWidthString.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0031745419230768935,
+        "last_rev": 30377,
+        "last_value": 0.6852886035000001,
+        "name": "io_ascii.main.FixedWidthTwoLineFloat.time_read",
+        "pretty_name": "io_ascii.main.FixedWidthTwoLineFloat.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.012993367730769244,
+        "last_rev": 30377,
+        "last_value": 1.6083999179999997,
+        "name": "io_ascii.main.FixedWidthTwoLineFloat.time_write",
+        "pretty_name": "io_ascii.main.FixedWidthTwoLineFloat.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0029938806826923345,
+        "last_rev": 30377,
+        "last_value": 0.5724740909999997,
+        "name": "io_ascii.main.FixedWidthTwoLineInt.time_read",
+        "pretty_name": "io_ascii.main.FixedWidthTwoLineInt.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.013278341990384631,
+        "last_rev": 30377,
+        "last_value": 1.7952778964999998,
+        "name": "io_ascii.main.FixedWidthTwoLineInt.time_write",
+        "pretty_name": "io_ascii.main.FixedWidthTwoLineInt.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0029339927692307696,
+        "last_rev": 30377,
+        "last_value": 0.6527400270000001,
+        "name": "io_ascii.main.FixedWidthTwoLineString.time_read",
+        "pretty_name": "io_ascii.main.FixedWidthTwoLineString.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.014513879153846098,
+        "last_rev": 30377,
+        "last_value": 1.6224096099999998,
+        "name": "io_ascii.main.FixedWidthTwoLineString.time_write",
+        "pretty_name": "io_ascii.main.FixedWidthTwoLineString.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30046,
+            30053
+        ],
+        "idx": null,
+        "last_err": 0.003409616439999983,
+        "last_rev": 30377,
+        "last_value": 0.6391590655000003,
+        "name": "io_ascii.main.IpacFloat.time_read",
+        "pretty_name": "io_ascii.main.IpacFloat.time_read",
+        "prev_value": 0.6344522274999997
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.014709047855769273,
+        "last_rev": 30377,
+        "last_value": 1.646871704,
+        "name": "io_ascii.main.IpacFloat.time_write",
+        "pretty_name": "io_ascii.main.IpacFloat.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0026250079038461858,
+        "last_rev": 30377,
+        "last_value": 0.5716603545000003,
+        "name": "io_ascii.main.IpacInt.time_read",
+        "pretty_name": "io_ascii.main.IpacInt.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.017348694124999956,
+        "last_rev": 30377,
+        "last_value": 1.8281486415,
+        "name": "io_ascii.main.IpacInt.time_write",
+        "pretty_name": "io_ascii.main.IpacInt.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0030583515096153945,
+        "last_rev": 30377,
+        "last_value": 0.5549073104999998,
+        "name": "io_ascii.main.IpacString.time_read",
+        "pretty_name": "io_ascii.main.IpacString.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.014305790624999993,
+        "last_rev": 30377,
+        "last_value": 1.6529136195000003,
+        "name": "io_ascii.main.IpacString.time_write",
+        "pretty_name": "io_ascii.main.IpacString.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0036639868269231148,
+        "last_rev": 30377,
+        "last_value": 0.8903894599999997,
+        "name": "io_ascii.main.LatexFloat.time_read",
+        "pretty_name": "io_ascii.main.LatexFloat.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.01460934844230775,
+        "last_rev": 30377,
+        "last_value": 1.5011887854999997,
+        "name": "io_ascii.main.LatexFloat.time_write",
+        "pretty_name": "io_ascii.main.LatexFloat.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.003862791509615352,
+        "last_rev": 30377,
+        "last_value": 0.7076427095,
+        "name": "io_ascii.main.LatexInt.time_read",
+        "pretty_name": "io_ascii.main.LatexInt.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.013600030384615398,
+        "last_rev": 30377,
+        "last_value": 1.7022537675,
+        "name": "io_ascii.main.LatexInt.time_write",
+        "pretty_name": "io_ascii.main.LatexInt.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.004282630749999982,
+        "last_rev": 30377,
+        "last_value": 0.8061175029999998,
+        "name": "io_ascii.main.LatexString.time_read",
+        "pretty_name": "io_ascii.main.LatexString.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.012171009548076924,
+        "last_rev": 30377,
+        "last_value": 1.5286753355000005,
+        "name": "io_ascii.main.LatexString.time_write",
+        "pretty_name": "io_ascii.main.LatexString.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.000289160754807697,
+        "last_rev": 30377,
+        "last_value": 0.12330995150000013,
+        "name": "io_ascii.main.NoHeaderFloat.time_read",
+        "pretty_name": "io_ascii.main.NoHeaderFloat.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.002134519951923074,
+        "last_rev": 30377,
+        "last_value": 0.4109202384999999,
+        "name": "io_ascii.main.NoHeaderFloat.time_write",
+        "pretty_name": "io_ascii.main.NoHeaderFloat.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 5.004140740740272e-05,
+        "last_rev": 30377,
+        "last_value": 0.04939913050000011,
+        "name": "io_ascii.main.NoHeaderInt.time_read",
+        "pretty_name": "io_ascii.main.NoHeaderInt.time_read",
+        "prev_value": 0.050019844499999966
+    },
+    {
+        "change_rev": [
+            30188,
+            30190
+        ],
+        "idx": null,
+        "last_err": 0.0005088859827586361,
+        "last_rev": 30377,
+        "last_value": 0.17901653750000013,
+        "name": "io_ascii.main.NoHeaderInt.time_write",
+        "pretty_name": "io_ascii.main.NoHeaderInt.time_write",
+        "prev_value": 0.17749625200000008
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0008833172451922927,
+        "last_rev": 30377,
+        "last_value": 0.11666519025,
+        "name": "io_ascii.main.NoHeaderString.time_read",
+        "pretty_name": "io_ascii.main.NoHeaderString.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30186,
+            30188
+        ],
+        "idx": null,
+        "last_err": 0.0009058882333333518,
+        "last_rev": 30377,
+        "last_value": 0.247400827,
+        "name": "io_ascii.main.NoHeaderString.time_write",
+        "pretty_name": "io_ascii.main.NoHeaderString.time_write",
+        "prev_value": 0.24517510924999997
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.00046066011111112605,
+        "last_rev": 30377,
+        "last_value": 0.13323105700000015,
+        "name": "io_ascii.main.RdbFloat.time_read",
+        "pretty_name": "io_ascii.main.RdbFloat.time_read",
+        "prev_value": 0.133764534
+    },
+    {
+        "change_rev": [
+            30054,
+            30056
+        ],
+        "idx": null,
+        "last_err": 0.0021220322500000214,
+        "last_rev": 30377,
+        "last_value": 0.38161783150000006,
+        "name": "io_ascii.main.RdbFloat.time_write",
+        "pretty_name": "io_ascii.main.RdbFloat.time_write",
+        "prev_value": 0.41892858225000007
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0002379671778846154,
+        "last_rev": 30377,
+        "last_value": 0.05489505712499998,
+        "name": "io_ascii.main.RdbInt.time_read",
+        "pretty_name": "io_ascii.main.RdbInt.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30188,
+            30190
+        ],
+        "idx": null,
+        "last_err": 0.0008574261379309887,
+        "last_rev": 30377,
+        "last_value": 0.1516723449999997,
+        "name": "io_ascii.main.RdbInt.time_write",
+        "pretty_name": "io_ascii.main.RdbInt.time_write",
+        "prev_value": 0.14990112199999972
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0011538289230769183,
+        "last_rev": 30377,
+        "last_value": 0.1199139387499999,
+        "name": "io_ascii.main.RdbString.time_read",
+        "pretty_name": "io_ascii.main.RdbString.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30186,
+            30188
+        ],
+        "idx": null,
+        "last_err": 0.0005733963333332943,
+        "last_rev": 30377,
+        "last_value": 0.2211439892499999,
+        "name": "io_ascii.main.RdbString.time_write",
+        "pretty_name": "io_ascii.main.RdbString.time_write",
+        "prev_value": 0.21932718100000004
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0024921380144230787,
+        "last_rev": 30377,
+        "last_value": 0.6470201425,
+        "name": "io_ascii.main.SextractorFloat.time_read",
+        "pretty_name": "io_ascii.main.SextractorFloat.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0019254392596153665,
+        "last_rev": 30377,
+        "last_value": 0.5272967595,
+        "name": "io_ascii.main.SextractorInt.time_read",
+        "pretty_name": "io_ascii.main.SextractorInt.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.002329975312499999,
+        "last_rev": 30377,
+        "last_value": 0.6263965660000002,
+        "name": "io_ascii.main.SextractorString.time_read",
+        "pretty_name": "io_ascii.main.SextractorString.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0002908524086538603,
+        "last_rev": 30377,
+        "last_value": 0.12252493549999999,
+        "name": "io_ascii.main.TabFloat.time_read",
+        "pretty_name": "io_ascii.main.TabFloat.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30054,
+            30056
+        ],
+        "idx": null,
+        "last_err": 0.0015683634583333373,
+        "last_rev": 30377,
+        "last_value": 0.38129603724999994,
+        "name": "io_ascii.main.TabFloat.time_write",
+        "pretty_name": "io_ascii.main.TabFloat.time_write",
+        "prev_value": 0.4368276797499999
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.00017309501851852998,
+        "last_rev": 30377,
+        "last_value": 0.04880283399999996,
+        "name": "io_ascii.main.TabInt.time_read",
+        "pretty_name": "io_ascii.main.TabInt.time_read",
+        "prev_value": 0.04952350333333333
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.000454430370370308,
+        "last_rev": 30377,
+        "last_value": 0.15164465299999996,
+        "name": "io_ascii.main.TabInt.time_write",
+        "pretty_name": "io_ascii.main.TabInt.time_write",
+        "prev_value": 0.14978733799999988
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0012214221346153998,
+        "last_rev": 30377,
+        "last_value": 0.11642432724999985,
+        "name": "io_ascii.main.TabString.time_read",
+        "pretty_name": "io_ascii.main.TabString.time_read",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            null,
+            30191
+        ],
+        "idx": null,
+        "last_err": 0.0011476089999999542,
+        "last_rev": 30377,
+        "last_value": 0.2216184737500001,
+        "name": "io_ascii.main.TabString.time_write",
+        "pretty_name": "io_ascii.main.TabString.time_write",
+        "prev_value": 0.21923764049999983
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.9554981507012404e-06,
+        "last_rev": 30377,
+        "last_value": 0.00019892019176947682,
+        "name": "io_ascii.rdb.RDBSuite.time_get_cols",
+        "pretty_name": "io_ascii.rdb.RDBSuite.time_get_cols",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.011089770855769275,
+        "last_rev": 30377,
+        "last_value": 1.3884603654999998,
+        "name": "io_ascii.sextractor.SExtractorSuite.time_header",
+        "pretty_name": "io_ascii.sextractor.SExtractorSuite.time_header",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.0,
+        "last_rev": 30377,
+        "last_value": 5744.0,
+        "name": "io_ascii.table.TableSuite.mem_table_init",
+        "pretty_name": "io_ascii.table.TableSuite.mem_table_init",
+        "prev_value": 5504.0
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.0,
+        "last_rev": 30377,
+        "last_value": 5744.0,
+        "name": "io_ascii.table.TableSuite.mem_table_outputter",
+        "pretty_name": "io_ascii.table.TableSuite.mem_table_outputter",
+        "prev_value": 5504.0
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.0975604830308798e-08,
+        "last_rev": 30377,
+        "last_value": 9.645100491955814e-07,
+        "name": "io_ascii.table.TableSuite.time_str_vals_float",
+        "pretty_name": "io_ascii.table.TableSuite.time_str_vals_float",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.2507922213554623e-08,
+        "last_rev": 30377,
+        "last_value": 9.663841749999992e-07,
+        "name": "io_ascii.table.TableSuite.time_str_vals_int",
+        "pretty_name": "io_ascii.table.TableSuite.time_str_vals_int",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.2481865265048713e-08,
+        "last_rev": 30377,
+        "last_value": 9.612192415293143e-07,
+        "name": "io_ascii.table.TableSuite.time_str_vals_str",
+        "pretty_name": "io_ascii.table.TableSuite.time_str_vals_str",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 1.1562954562129536e-05,
+        "last_rev": 30377,
+        "last_value": 0.0010516642980769235,
+        "name": "io_ascii.table.TableSuite.time_table_init_from_list",
+        "pretty_name": "io_ascii.table.TableSuite.time_table_init_from_list",
+        "prev_value": 0.0009960742181818194
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 9.406410066890867e-06,
+        "last_rev": 30377,
+        "last_value": 0.0014431108060353368,
+        "name": "io_ascii.table.TableSuite.time_table_outputter",
+        "pretty_name": "io_ascii.table.TableSuite.time_table_outputter",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.022764860884615427,
+        "last_rev": 30377,
+        "last_value": 2.069220926,
+        "name": "io_fits.FITSBinTableHDU.time_from_columns_bytes",
+        "pretty_name": "io_fits.FITSBinTableHDU.time_from_columns_bytes",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30054,
+            30056
+        ],
+        "idx": null,
+        "last_err": 0.0036412794583333685,
+        "last_rev": 30377,
+        "last_value": 0.17711333649999972,
+        "name": "io_fits.FITSHighLevelTableBenchmarks.time_read_nommap",
+        "pretty_name": "io_fits.FITSHighLevelTableBenchmarks.time_read_nommap",
+        "prev_value": 0.16478049449999999
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.00871664467307692,
+        "last_rev": 30377,
+        "last_value": 0.5339716060000002,
+        "name": "io_fits.FITSHighLevelTableBenchmarks.time_write",
+        "pretty_name": "io_fits.FITSHighLevelTableBenchmarks.time_write",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.2376163854681447e-05,
+        "last_rev": 30377,
+        "last_value": 0.0032236847575757557,
+        "name": "modeling.compound.EvaluateCompoundModelNoUnits.time_large",
+        "pretty_name": "modeling.compound.EvaluateCompoundModelNoUnits.time_large",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 2.5177472140762274e-05,
+        "last_rev": 30377,
+        "last_value": 0.004979765700000005,
+        "name": "modeling.compound.EvaluateCompoundModelNoUnits.time_meduim",
+        "pretty_name": "modeling.compound.EvaluateCompoundModelNoUnits.time_meduim",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 2.146072258083122e-05,
+        "last_rev": 30377,
+        "last_value": 0.0032165554848484893,
+        "name": "modeling.compound.EvaluateCompoundModelNoUnits.time_scalar",
+        "pretty_name": "modeling.compound.EvaluateCompoundModelNoUnits.time_scalar",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.4784309719990333e-05,
+        "last_rev": 30377,
+        "last_value": 0.0033236024242424287,
+        "name": "modeling.compound.EvaluateCompoundModelNoUnits.time_small",
+        "pretty_name": "modeling.compound.EvaluateCompoundModelNoUnits.time_small",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 3.4375654838709965e-05,
+        "last_rev": 30377,
+        "last_value": 0.006874280799999995,
+        "name": "modeling.compound.EvaluateCompoundModelWithUnits.time_large",
+        "pretty_name": "modeling.compound.EvaluateCompoundModelWithUnits.time_large",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 5.390433186705921e-05,
+        "last_rev": 30377,
+        "last_value": 0.00890769983333332,
+        "name": "modeling.compound.EvaluateCompoundModelWithUnits.time_medium",
+        "pretty_name": "modeling.compound.EvaluateCompoundModelWithUnits.time_medium",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 4.165642365591388e-05,
+        "last_rev": 30377,
+        "last_value": 0.006889019533333318,
+        "name": "modeling.compound.EvaluateCompoundModelWithUnits.time_scalar",
+        "pretty_name": "modeling.compound.EvaluateCompoundModelWithUnits.time_scalar",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 4.5047021582181e-05,
+        "last_rev": 30377,
+        "last_value": 0.006989488266666654,
+        "name": "modeling.compound.EvaluateCompoundModelWithUnits.time_small",
+        "pretty_name": "modeling.compound.EvaluateCompoundModelWithUnits.time_small",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.00016018062500000238,
+        "last_rev": 30377,
+        "last_value": 0.02774768900000002,
+        "name": "modeling.compound.time_init_7_no_units",
+        "pretty_name": "modeling.compound.time_init_7_no_units",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.00016233048790323122,
+        "last_rev": 30377,
+        "last_value": 0.03122114687500005,
+        "name": "modeling.compound.time_init_7_with_units",
+        "pretty_name": "modeling.compound.time_init_7_with_units",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 2.6325100644251185e-06,
+        "last_rev": 30377,
+        "last_value": 0.00027271569230769287,
+        "name": "modeling.model.time_eval_gaussian_no_units_large",
+        "pretty_name": "modeling.model.time_eval_gaussian_no_units_large",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 5.205124903553816e-06,
+        "last_rev": 30377,
+        "last_value": 0.0005289101719576721,
+        "name": "modeling.model.time_eval_gaussian_no_units_medium",
+        "pretty_name": "modeling.model.time_eval_gaussian_no_units_medium",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 2.283779299606842e-06,
+        "last_rev": 30377,
+        "last_value": 0.00025902780622009535,
+        "name": "modeling.model.time_eval_gaussian_no_units_scalar",
+        "pretty_name": "modeling.model.time_eval_gaussian_no_units_scalar",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 3.3328319516402337e-06,
+        "last_rev": 30377,
+        "last_value": 0.00028125123521850943,
+        "name": "modeling.model.time_eval_gaussian_no_units_small",
+        "pretty_name": "modeling.model.time_eval_gaussian_no_units_small",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 2.829050974524288e-05,
+        "last_rev": 30377,
+        "last_value": 0.001402893114285716,
+        "name": "modeling.model.time_eval_gaussian_with_units_large",
+        "pretty_name": "modeling.model.time_eval_gaussian_with_units_large",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30355,
+            30359
+        ],
+        "idx": null,
+        "last_err": 7.624639530530268e-06,
+        "last_rev": 30377,
+        "last_value": 0.0017033753650793713,
+        "name": "modeling.model.time_eval_gaussian_with_units_medium",
+        "pretty_name": "modeling.model.time_eval_gaussian_with_units_medium",
+        "prev_value": 0.001786774091666667
+    },
+    {
+        "change_rev": [
+            30355,
+            30359
+        ],
+        "idx": null,
+        "last_err": 1.1011237270614621e-05,
+        "last_rev": 30377,
+        "last_value": 0.0012969319277108442,
+        "name": "modeling.model.time_eval_gaussian_with_units_scalar",
+        "pretty_name": "modeling.model.time_eval_gaussian_with_units_scalar",
+        "prev_value": 0.0013887097202009712
+    },
+    {
+        "change_rev": [
+            30355,
+            30359
+        ],
+        "idx": null,
+        "last_err": 9.623723462488451e-06,
+        "last_rev": 30377,
+        "last_value": 0.0013331972437500006,
+        "name": "modeling.model.time_eval_gaussian_with_units_small",
+        "pretty_name": "modeling.model.time_eval_gaussian_with_units_small",
+        "prev_value": 0.001431155732972973
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 2.321900575622055e-06,
+        "last_rev": 30377,
+        "last_value": 0.0003168069884393065,
+        "name": "modeling.model.time_init_gaussian_no_units",
+        "pretty_name": "modeling.model.time_init_gaussian_no_units",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 3.362396329502539e-06,
+        "last_rev": 30377,
+        "last_value": 0.0004252226821705421,
+        "name": "modeling.model.time_init_gaussian_with_units",
+        "pretty_name": "modeling.model.time_init_gaussian_with_units",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.164754981608366e-06,
+        "last_rev": 30377,
+        "last_value": 0.00014074453036437226,
+        "name": "modeling.model.time_model_init",
+        "pretty_name": "modeling.model.time_model_init",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 4.408517981531063e-06,
+        "last_rev": 30377,
+        "last_value": 0.0004937451869369373,
+        "name": "modeling.model.time_model_init_2",
+        "pretty_name": "modeling.model.time_model_init_2",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            29923,
+            29927
+        ],
+        "idx": null,
+        "last_err": 1.5196380358433424e-05,
+        "last_rev": 30377,
+        "last_value": 0.002877430571428568,
+        "name": "table.TimeMaskedColumn.time_masked_column_init",
+        "pretty_name": "table.TimeMaskedColumn.time_masked_column_init",
+        "prev_value": 3.2201570889999998
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 2.1113777777799542e-05,
+        "last_rev": 30377,
+        "last_value": 0.0012730619999996584,
+        "name": "table.TimeMaskedTable.time_add_column",
+        "pretty_name": "table.TimeMaskedTable.time_add_column",
+        "prev_value": 0.0011665975000001438
+    },
+    {
+        "change_rev": [
+            30141,
+            30186
+        ],
+        "idx": null,
+        "last_err": 4.9975161290263895e-05,
+        "last_rev": 30377,
+        "last_value": 0.00438858799999986,
+        "name": "table.TimeMaskedTable.time_add_row",
+        "pretty_name": "table.TimeMaskedTable.time_add_row",
+        "prev_value": 0.004207422000000349
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0018006641250000177,
+        "last_rev": 30377,
+        "last_value": 0.19714444025,
+        "name": "table.TimeMaskedTable.time_aggregate",
+        "pretty_name": "table.TimeMaskedTable.time_aggregate",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0018698538942307752,
+        "last_rev": 30377,
+        "last_value": 0.19685540725000006,
+        "name": "table.TimeMaskedTable.time_aggregate_noreduceat",
+        "pretty_name": "table.TimeMaskedTable.time_aggregate_noreduceat",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 3.621037125618474e-08,
+        "last_rev": 30377,
+        "last_value": 2.1955163232685353e-06,
+        "name": "table.TimeMaskedTable.time_column_get",
+        "pretty_name": "table.TimeMaskedTable.time_column_get",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 2.3046369185716805e-06,
+        "last_rev": 30377,
+        "last_value": 0.00025778483916083896,
+        "name": "table.TimeMaskedTable.time_column_make_bool_mask",
+        "pretty_name": "table.TimeMaskedTable.time_column_make_bool_mask",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 8.061987061609075e-06,
+        "last_rev": 30377,
+        "last_value": 0.0003789660083801718,
+        "name": "table.TimeMaskedTable.time_column_set",
+        "pretty_name": "table.TimeMaskedTable.time_column_set",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30188,
+            30190
+        ],
+        "idx": null,
+        "last_err": 1.2390397510081175e-06,
+        "last_rev": 30377,
+        "last_value": 0.00016831917700453893,
+        "name": "table.TimeMaskedTable.time_column_set_all",
+        "pretty_name": "table.TimeMaskedTable.time_column_set_all",
+        "prev_value": 0.00016271564866863916
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 1.2543963850409612e-06,
+        "last_rev": 30377,
+        "last_value": 0.00013802599498746905,
+        "name": "table.TimeMaskedTable.time_column_set_row_subset",
+        "pretty_name": "table.TimeMaskedTable.time_column_set_row_subset",
+        "prev_value": 0.00013318362267904511
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 1.3767136745212746e-06,
+        "last_rev": 30377,
+        "last_value": 0.00011369423492605242,
+        "name": "table.TimeMaskedTable.time_column_set_row_subset_int",
+        "pretty_name": "table.TimeMaskedTable.time_column_set_row_subset_int",
+        "prev_value": 0.00010832391222879713
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 3.816207037400779e-06,
+        "last_rev": 30377,
+        "last_value": 0.000552734978035784,
+        "name": "table.TimeMaskedTable.time_column_slice_bool",
+        "pretty_name": "table.TimeMaskedTable.time_column_slice_bool",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 4.002254323010941e-06,
+        "last_rev": 30377,
+        "last_value": 0.0005023025259591335,
+        "name": "table.TimeMaskedTable.time_column_slice_int",
+        "pretty_name": "table.TimeMaskedTable.time_column_slice_int",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 5.319915968940024e-06,
+        "last_rev": 30377,
+        "last_value": 0.0005890063820970697,
+        "name": "table.TimeMaskedTable.time_copy_column",
+        "pretty_name": "table.TimeMaskedTable.time_copy_column",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30186,
+            30188
+        ],
+        "idx": null,
+        "last_err": 3.177177831541268e-05,
+        "last_rev": 30377,
+        "last_value": 0.0034191246612903193,
+        "name": "table.TimeMaskedTable.time_copy_table",
+        "pretty_name": "table.TimeMaskedTable.time_copy_table",
+        "prev_value": 0.0032280607272727243
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 7.75892787698378e-05,
+        "last_rev": 30377,
+        "last_value": 0.013883276937499966,
+        "name": "table.TimeMaskedTable.time_group",
+        "pretty_name": "table.TimeMaskedTable.time_group",
+        "prev_value": 0.013225243250000018
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 9.960773251028578e-05,
+        "last_rev": 30377,
+        "last_value": 0.01161321444444442,
+        "name": "table.TimeMaskedTable.time_hstack",
+        "pretty_name": "table.TimeMaskedTable.time_hstack",
+        "prev_value": 0.011001560399999999
+    },
+    {
+        "change_rev": [
+            30199,
+            30208
+        ],
+        "idx": null,
+        "last_err": 1.1535027913002197e-05,
+        "last_rev": 30377,
+        "last_value": 0.001670427386363638,
+        "name": "table.TimeMaskedTable.time_init_from_np_array_copy",
+        "pretty_name": "table.TimeMaskedTable.time_init_from_np_array_copy",
+        "prev_value": 0.0017140382135176684
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 5.74693937321746e-06,
+        "last_rev": 30377,
+        "last_value": 0.0010025214629629632,
+        "name": "table.TimeMaskedTable.time_init_from_np_array_no_copy",
+        "pretty_name": "table.TimeMaskedTable.time_init_from_np_array_no_copy",
+        "prev_value": 0.0009846266045454536
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.124674253417182e-06,
+        "last_rev": 30377,
+        "last_value": 0.0001241110768688677,
+        "name": "table.TimeMaskedTable.time_item_get_colfirst",
+        "pretty_name": "table.TimeMaskedTable.time_item_get_colfirst",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.4895155455356546e-06,
+        "last_rev": 30377,
+        "last_value": 0.00014579111175356375,
+        "name": "table.TimeMaskedTable.time_item_get_rowfirst",
+        "pretty_name": "table.TimeMaskedTable.time_item_get_rowfirst",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30084,
+            30087
+        ],
+        "idx": null,
+        "last_err": 9.811371130952735e-05,
+        "last_rev": 30377,
+        "last_value": 0.0133233975,
+        "name": "table.TimeMaskedTable.time_iter_row",
+        "pretty_name": "table.TimeMaskedTable.time_iter_row",
+        "prev_value": 0.013059239
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 6.755836640211418e-05,
+        "last_rev": 30377,
+        "last_value": 0.014457179000000002,
+        "name": "table.TimeMaskedTable.time_join_inner",
+        "pretty_name": "table.TimeMaskedTable.time_join_inner",
+        "prev_value": 0.014094437714285757
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.00010330043915344571,
+        "last_rev": 30377,
+        "last_value": 0.015412574428571421,
+        "name": "table.TimeMaskedTable.time_join_outer",
+        "pretty_name": "table.TimeMaskedTable.time_join_outer",
+        "prev_value": 0.014913430857142806
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.5268549655670054e-07,
+        "last_rev": 30377,
+        "last_value": 2.4642125395040162e-05,
+        "name": "table.TimeMaskedTable.time_mask_column",
+        "pretty_name": "table.TimeMaskedTable.time_mask_column",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30141,
+            30186
+        ],
+        "idx": null,
+        "last_err": 1.6833301922278448e-05,
+        "last_rev": 30377,
+        "last_value": 0.001664812531249997,
+        "name": "table.TimeMaskedTable.time_multi_column_get",
+        "pretty_name": "table.TimeMaskedTable.time_multi_column_get",
+        "prev_value": 0.0015624163550724598
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.007487887249999996,
+        "last_rev": 30377,
+        "last_value": 0.7088388050000001,
+        "name": "table.TimeMaskedTable.time_read_rows",
+        "pretty_name": "table.TimeMaskedTable.time_read_rows",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": null,
+        "last_rev": null,
+        "last_value": null,
+        "name": "table.TimeMaskedTable.time_remove_column",
+        "pretty_name": "table.TimeMaskedTable.time_remove_column",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30141,
+            30186
+        ],
+        "idx": null,
+        "last_err": 3.5302580645170435e-05,
+        "last_rev": 30377,
+        "last_value": 0.00372803399999988,
+        "name": "table.TimeMaskedTable.time_remove_row",
+        "pretty_name": "table.TimeMaskedTable.time_remove_row",
+        "prev_value": 0.0035926370000001207
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": null,
+        "last_rev": null,
+        "last_value": null,
+        "name": "table.TimeMaskedTable.time_remove_rows",
+        "pretty_name": "table.TimeMaskedTable.time_remove_rows",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30080,
+            30084
+        ],
+        "idx": null,
+        "last_err": 1.4006746425366786e-07,
+        "last_rev": 30377,
+        "last_value": 1.4234584269662882e-05,
+        "name": "table.TimeMaskedTable.time_row_get",
+        "pretty_name": "table.TimeMaskedTable.time_row_get",
+        "prev_value": 1.3895201540195336e-05
+    },
+    {
+        "change_rev": [
+            30127,
+            30139
+        ],
+        "idx": null,
+        "last_err": 4.7161861952857896e-05,
+        "last_rev": 30377,
+        "last_value": 0.011296977777777753,
+        "name": "table.TimeMaskedTable.time_sort",
+        "pretty_name": "table.TimeMaskedTable.time_sort",
+        "prev_value": 0.01113006219999999
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 2.3629259122423026e-05,
+        "last_rev": 30377,
+        "last_value": 0.0036730680689655206,
+        "name": "table.TimeMaskedTable.time_table_slice_bool",
+        "pretty_name": "table.TimeMaskedTable.time_table_slice_bool",
+        "prev_value": 0.003532820862068975
+    },
+    {
+        "change_rev": [
+            30141,
+            30186
+        ],
+        "idx": null,
+        "last_err": 2.4729081602182456e-05,
+        "last_rev": 30377,
+        "last_value": 0.003356943121212132,
+        "name": "table.TimeMaskedTable.time_table_slice_int",
+        "pretty_name": "table.TimeMaskedTable.time_table_slice_int",
+        "prev_value": 0.0032340526969696966
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 0.00010072916402116215,
+        "last_rev": 30377,
+        "last_value": 0.014690528285714282,
+        "name": "table.TimeMaskedTable.time_vstack",
+        "pretty_name": "table.TimeMaskedTable.time_vstack",
+        "prev_value": 0.014119349821428546
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 1.4232703703705215e-05,
+        "last_rev": 30377,
+        "last_value": 0.0008162090000001232,
+        "name": "table.TimeTable.time_add_column",
+        "pretty_name": "table.TimeTable.time_add_column",
+        "prev_value": 0.0007141910000001417
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 4.180374074070204e-05,
+        "last_rev": 30377,
+        "last_value": 0.002689355999999865,
+        "name": "table.TimeTable.time_add_row",
+        "pretty_name": "table.TimeTable.time_add_row",
+        "prev_value": 0.002457852000000038
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 2.1410571928880154e-05,
+        "last_rev": 30377,
+        "last_value": 0.00395661212962964,
+        "name": "table.TimeTable.time_aggregate",
+        "pretty_name": "table.TimeTable.time_aggregate",
+        "prev_value": 0.0037333155714285703
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0002870167732371828,
+        "last_rev": 30377,
+        "last_value": 0.04840199133333334,
+        "name": "table.TimeTable.time_aggregate_noreduceat",
+        "pretty_name": "table.TimeTable.time_aggregate_noreduceat",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 3.2191659996467494e-08,
+        "last_rev": 30377,
+        "last_value": 2.201846379126993e-06,
+        "name": "table.TimeTable.time_column_get",
+        "pretty_name": "table.TimeTable.time_column_get",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.6832549613796416e-07,
+        "last_rev": 30377,
+        "last_value": 1.4808644729935497e-05,
+        "name": "table.TimeTable.time_column_make_bool_mask",
+        "pretty_name": "table.TimeTable.time_column_make_bool_mask",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 1.7775268530333128e-06,
+        "last_rev": 30377,
+        "last_value": 0.00022538478511530393,
+        "name": "table.TimeTable.time_column_set",
+        "pretty_name": "table.TimeTable.time_column_set",
+        "prev_value": 0.00021473300530785557
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 2.6714753437672294e-07,
+        "last_rev": 30377,
+        "last_value": 2.8186022480620248e-05,
+        "name": "table.TimeTable.time_column_set_all",
+        "pretty_name": "table.TimeTable.time_column_set_all",
+        "prev_value": 2.37023639974238e-05
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 2.9889733485609353e-07,
+        "last_rev": 30377,
+        "last_value": 3.911277905333805e-05,
+        "name": "table.TimeTable.time_column_set_row_subset",
+        "pretty_name": "table.TimeTable.time_column_set_row_subset",
+        "prev_value": 3.4748249212846404e-05
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 2.388755268635923e-07,
+        "last_rev": 30377,
+        "last_value": 2.6808156901688244e-05,
+        "name": "table.TimeTable.time_column_set_row_subset_int",
+        "pretty_name": "table.TimeTable.time_column_set_row_subset_int",
+        "prev_value": 2.2521096859190526e-05
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 7.548212192273477e-07,
+        "last_rev": 30377,
+        "last_value": 0.00011487976329167354,
+        "name": "table.TimeTable.time_column_slice_bool",
+        "pretty_name": "table.TimeTable.time_column_slice_bool",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 6.577228022210302e-07,
+        "last_rev": 30377,
+        "last_value": 9.887908068181809e-05,
+        "name": "table.TimeTable.time_column_slice_int",
+        "pretty_name": "table.TimeTable.time_column_slice_int",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.555123500675059e-06,
+        "last_rev": 30377,
+        "last_value": 0.00021562401377761388,
+        "name": "table.TimeTable.time_copy_column",
+        "pretty_name": "table.TimeTable.time_copy_column",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 7.759191866042964e-06,
+        "last_rev": 30377,
+        "last_value": 0.001968063090909093,
+        "name": "table.TimeTable.time_copy_table",
+        "pretty_name": "table.TimeTable.time_copy_table",
+        "prev_value": 0.001873182793103449
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 5.340495787037013e-05,
+        "last_rev": 30377,
+        "last_value": 0.006497908593750004,
+        "name": "table.TimeTable.time_group",
+        "pretty_name": "table.TimeTable.time_group",
+        "prev_value": 0.005974633823529415
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 3.3680536062376606e-05,
+        "last_rev": 30377,
+        "last_value": 0.005513403289473672,
+        "name": "table.TimeTable.time_hstack",
+        "pretty_name": "table.TimeTable.time_hstack",
+        "prev_value": 0.005139317649999997
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 8.274295766082724e-06,
+        "last_rev": 30377,
+        "last_value": 0.0016510059016393449,
+        "name": "table.TimeTable.time_init_from_np_array_copy",
+        "pretty_name": "table.TimeTable.time_init_from_np_array_copy",
+        "prev_value": 0.0017033596746031726
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 6.53043046878843e-06,
+        "last_rev": 30377,
+        "last_value": 0.0009999095545454569,
+        "name": "table.TimeTable.time_init_from_np_array_no_copy",
+        "pretty_name": "table.TimeTable.time_init_from_np_array_no_copy",
+        "prev_value": 0.0009813237600000014
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 3.340881724763342e-08,
+        "last_rev": 30377,
+        "last_value": 3.347189047245485e-06,
+        "name": "table.TimeTable.time_item_get_colfirst",
+        "pretty_name": "table.TimeTable.time_item_get_colfirst",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30056,
+            30073
+        ],
+        "idx": null,
+        "last_err": 1.9985622563180038e-07,
+        "last_rev": 30377,
+        "last_value": 2.0642903237881302e-05,
+        "name": "table.TimeTable.time_item_get_rowfirst",
+        "pretty_name": "table.TimeTable.time_item_get_rowfirst",
+        "prev_value": 2.0247116042197167e-05
+    },
+    {
+        "change_rev": [
+            30089,
+            30091
+        ],
+        "idx": null,
+        "last_err": 0.0001436663862179475,
+        "last_rev": 30377,
+        "last_value": 0.013353784437499988,
+        "name": "table.TimeTable.time_iter_row",
+        "pretty_name": "table.TimeTable.time_iter_row",
+        "prev_value": 0.013005698562500001
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 2.6955852469136173e-05,
+        "last_rev": 30377,
+        "last_value": 0.007185170107142844,
+        "name": "table.TimeTable.time_join_inner",
+        "pretty_name": "table.TimeTable.time_join_inner",
+        "prev_value": 0.0067405345666666635
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 7.184576666666575e-05,
+        "last_rev": 30377,
+        "last_value": 0.011050973099999962,
+        "name": "table.TimeTable.time_join_outer",
+        "pretty_name": "table.TimeTable.time_join_outer",
+        "prev_value": 0.01053258347499999
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 7.348128440515248e-06,
+        "last_rev": 30377,
+        "last_value": 0.0010270382714285713,
+        "name": "table.TimeTable.time_multi_column_get",
+        "pretty_name": "table.TimeTable.time_multi_column_get",
+        "prev_value": 0.0009758091409090917
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.00028939874519230853,
+        "last_rev": 30377,
+        "last_value": 0.031765721000000025,
+        "name": "table.TimeTable.time_read_rows",
+        "pretty_name": "table.TimeTable.time_read_rows",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": null,
+        "last_rev": null,
+        "last_value": null,
+        "name": "table.TimeTable.time_remove_column",
+        "pretty_name": "table.TimeTable.time_remove_column",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 2.627377777776453e-05,
+        "last_rev": 30377,
+        "last_value": 0.0013003500000001722,
+        "name": "table.TimeTable.time_remove_row",
+        "pretty_name": "table.TimeTable.time_remove_row",
+        "prev_value": 0.001148259999999901
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": null,
+        "last_rev": null,
+        "last_value": null,
+        "name": "table.TimeTable.time_remove_rows",
+        "pretty_name": "table.TimeTable.time_remove_rows",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30080,
+            30084
+        ],
+        "idx": null,
+        "last_err": 1.4622131654883267e-07,
+        "last_rev": 30377,
+        "last_value": 1.4230909349173562e-05,
+        "name": "table.TimeTable.time_row_get",
+        "pretty_name": "table.TimeTable.time_row_get",
+        "prev_value": 1.3872929385964914e-05
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 2.8343204691357942e-05,
+        "last_rev": 30377,
+        "last_value": 0.003921019660000002,
+        "name": "table.TimeTable.time_sort",
+        "pretty_name": "table.TimeTable.time_sort",
+        "prev_value": 0.0037979679999999927
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 1.4107093305539089e-05,
+        "last_rev": 30377,
+        "last_value": 0.0012826394411764716,
+        "name": "table.TimeTable.time_table_slice_bool",
+        "pretty_name": "table.TimeTable.time_table_slice_bool",
+        "prev_value": 0.001216178971910112
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 9.492048689146902e-06,
+        "last_rev": 30377,
+        "last_value": 0.0011766744946236558,
+        "name": "table.TimeTable.time_table_slice_int",
+        "pretty_name": "table.TimeTable.time_table_slice_int",
+        "prev_value": 0.0010636042673267312
+    },
+    {
+        "change_rev": [
+            30191,
+            30199
+        ],
+        "idx": null,
+        "last_err": 4.171701994301947e-05,
+        "last_rev": 30377,
+        "last_value": 0.008109038538461559,
+        "name": "table.TimeTable.time_vstack",
+        "pretty_name": "table.TimeTable.time_vstack",
+        "prev_value": 0.007687373653846154
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0,
+        "last_rev": 30377,
+        "last_value": 208.0,
+        "name": "units.mem_unit",
+        "pretty_name": "units.mem_unit",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30355,
+            30359
+        ],
+        "idx": null,
+        "last_err": 0.026796778999999837,
+        "last_rev": 30377,
+        "last_value": 4.7458213019999995,
+        "name": "units.time_compose_complex",
+        "pretty_name": "units.time_compose_complex",
+        "prev_value": 5.948606215
+    },
+    {
+        "change_rev": [
+            30355,
+            30359
+        ],
+        "idx": null,
+        "last_err": 6.192259166667054e-05,
+        "last_rev": 30377,
+        "last_value": 0.00861370316666667,
+        "name": "units.time_compose_to_bases",
+        "pretty_name": "units.time_compose_to_bases",
+        "prev_value": 0.009951950772727279
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 2.1452402405654714e-05,
+        "last_rev": 30377,
+        "last_value": 0.002754298705128202,
+        "name": "units.time_quantity_array_conversion",
+        "pretty_name": "units.time_quantity_array_conversion",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 7.499359706077915e-06,
+        "last_rev": 30377,
+        "last_value": 0.00021137392961165035,
+        "name": "units.time_quantity_creation",
+        "pretty_name": "units.time_quantity_creation",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.1467827138292354e-07,
+        "last_rev": 30377,
+        "last_value": 1.5476796402682455e-05,
+        "name": "units.time_quantity_creation_nocopy",
+        "pretty_name": "units.time_quantity_creation_nocopy",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.870552933953995e-05,
+        "last_rev": 30377,
+        "last_value": 0.0020289754891591235,
+        "name": "units.time_quantity_init_array",
+        "pretty_name": "units.time_quantity_init_array",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30355,
+            30359
+        ],
+        "idx": null,
+        "last_err": 6.716654443662031e-07,
+        "last_rev": 30377,
+        "last_value": 0.00010596998684210521,
+        "name": "units.time_quantity_init_scalar",
+        "pretty_name": "units.time_quantity_init_scalar",
+        "prev_value": 0.00012560341231126587
+    },
+    {
+        "change_rev": [
+            30355,
+            30359
+        ],
+        "idx": null,
+        "last_err": 3.99086417095392e-06,
+        "last_rev": 30377,
+        "last_value": 0.0003057333343558282,
+        "name": "units.time_quantity_scalar_conversion",
+        "pretty_name": "units.time_quantity_scalar_conversion",
+        "prev_value": 0.00035646257072368396
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.0392487905681407e-05,
+        "last_rev": 30377,
+        "last_value": 0.0006327235656645563,
+        "name": "units.time_quantity_times_quantity",
+        "pretty_name": "units.time_quantity_times_quantity",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 7.322170439154126e-06,
+        "last_rev": 30377,
+        "last_value": 0.000370440688058811,
+        "name": "units.time_quantity_times_unit",
+        "pretty_name": "units.time_quantity_times_unit",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 4.9385437353357115e-06,
+        "last_rev": 30377,
+        "last_value": 0.0006883977751572329,
+        "name": "units.time_quantity_ufunc_sin",
+        "pretty_name": "units.time_quantity_ufunc_sin",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 5.904080293706374e-08,
+        "last_rev": 30377,
+        "last_value": 4.567957104243133e-06,
+        "name": "units.time_quantity_view",
+        "pretty_name": "units.time_quantity_view",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.5441816011234684e-06,
+        "last_rev": 30377,
+        "last_value": 0.00022142157866777534,
+        "name": "units.time_simple_unit_parse",
+        "pretty_name": "units.time_simple_unit_parse",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            30355,
+            30359
+        ],
+        "idx": null,
+        "last_err": 6.4794589503933044e-06,
+        "last_rev": 30377,
+        "last_value": 0.0015689115882352952,
+        "name": "units.time_unit_compose",
+        "pretty_name": "units.time_unit_compose",
+        "prev_value": 0.0016883047500000038
+    },
+    {
+        "change_rev": [
+            30355,
+            30359
+        ],
+        "idx": null,
+        "last_err": 4.819937692103937e-06,
+        "last_rev": 30377,
+        "last_value": 0.0008479995211864419,
+        "name": "units.time_unit_parse",
+        "pretty_name": "units.time_unit_parse",
+        "prev_value": 0.0009649857681818192
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.2853310766074718e-07,
+        "last_rev": 30377,
+        "last_value": 1.3453989589194245e-05,
+        "name": "units.time_unit_to",
+        "pretty_name": "units.time_unit_to",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 1.835246734546927e-07,
+        "last_rev": 30377,
+        "last_value": 1.9870721477709286e-05,
+        "name": "units.time_very_simple_unit_parse",
+        "pretty_name": "units.time_very_simple_unit_parse",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.002613200600961545,
+        "last_rev": 30377,
+        "last_value": 0.316559378,
+        "name": "visualization.wcsaxes.time_basic_plot",
+        "pretty_name": "visualization.wcsaxes.time_basic_plot",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.0012908297500000255,
+        "last_rev": 30377,
+        "last_value": 0.35670065350000013,
+        "name": "visualization.wcsaxes.time_basic_plot_with_grid",
+        "pretty_name": "visualization.wcsaxes.time_basic_plot_with_grid",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": null,
+        "last_err": 0.009858909403846197,
+        "last_rev": 30377,
+        "last_value": 2.052234371,
+        "name": "visualization.wcsaxes.time_basic_plot_with_grid_and_overlay",
+        "pretty_name": "visualization.wcsaxes.time_basic_plot_with_grid_and_overlay",
+        "prev_value": null
+    }
+]
